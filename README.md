@@ -14,7 +14,7 @@
 <!--                     ANIMATED TYPING TEXT                         -->
 <!-- └──────────────────────────────────────────────────────────────────┘ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=600&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Founder+%26+CEO+@+IR+Fusion+|+Building+the+Future;Full-Stack+Engineer+|+Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript;Backend+Architect+|+Spring+Boot+%7C+Flask+%7C+Laravel;IoT+Systems+Builder+|+Embedded+%26+Cloud+Integration;YouTube+Educator+|+Data+Science+%26+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=Founder+%26+CEO+@+IR+Fusion+|+Building+the+Future;Full-Stack+Engineer+|+Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript;Backend+Architect+|+Spring+Boot+%7C+Flask+%7C+Laravel;IoT+Systems+Builder+|+Embedded+%26+Cloud+Integration;YouTube+Educator+|+Data+Science+%26+Software+Engineering" alt="Typing SVG" />
 </div>
 
 <br/>
