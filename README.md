@@ -150,6 +150,121 @@ const ruvindu: Developer = {
 ☕ PHP & Backend            ██████████████░░░░░░░░░░   65%
 ```
 
+### 🎯 Real-World Code Examples
+
+<div align="center">
+
+**React Component - Tourism Booking System**
+```jsx
+// Smart Tour Booking Interface
+const TourBookingComponent = ({ tours, userPreferences }) => {
+  const [selectedTour, setSelectedTour] = React.useState(null);
+  const [bookingDetails, setBookingDetails] = React.useState({});
+  
+  const handleBooking = async () => {
+    const tourData = {
+      tour_id: selectedTour.id,
+      user_preferences: userPreferences,
+      booking_date: new Date().toISOString()
+    };
+    
+    const response = await fetch('/api/bookings', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(tourData)
+    });
+    
+    return response.json();
+  };
+  
+  return (
+    <section className="booking-interface">
+      <h2>✨ Find Your Perfect Tour</h2>
+      <ToursList tours={tours} />
+      <button onClick={handleBooking}>Reserve Now 🚀</button>
+    </section>
+  );
+};
+```
+
+**Flask API - Backend Processing**
+```python
+# Smart Tourism Analytics & Recommendations Engine
+from flask import Flask, jsonify, request
+from flask_cors import CORS
+from tensorflow.keras.models import load_model
+import numpy as np
+
+app = Flask(__name__)
+CORS(app)
+
+ml_model = load_model('tour_recommendations.h5')
+
+@app.route('/api/recommendations', methods=['POST'])
+def get_recommendations():
+    user_profile = request.json
+    
+    # Process user preferences through ML model
+    user_vector = preprocess_user_data(user_profile)
+    recommendations = ml_model.predict(user_vector)
+    
+    # Format and return top destinations
+    top_tours = rank_and_format(recommendations)
+    
+    return jsonify({
+        'status': 'success',
+        'recommendations': top_tours,
+        'timestamp': datetime.now().isoformat()
+    }), 200
+
+if __name__ == '__main__':
+    app.run(debug=False, host='0.0.0.0', port=5000)
+```
+
+**IoT Integration - Real-Time Tracking**
+```cpp
+// Arduino IoT: Real-Time Tour Guide Tracking
+#include <WiFi.h>
+#include <HTTPClient.h>
+
+const char* ssid = "TourGuide_Network";
+const char* password = "secure_password";
+const char* apiEndpoint = "https://samat-tour.api/guide-location";
+
+void updateGuideLocation() {
+  if(WiFi.status() == WL_CONNECTED) {
+    float latitude = gps.location.lat();
+    float longitude = gps.location.lng();
+    float temperature = sensor.readTemp();
+    
+    HTTPClient http;
+    String payload = "{\"lat\":" + String(latitude) + 
+                     ",\"lng\":" + String(longitude) + 
+                     ",\"temp\":" + String(temperature) + "}";
+    
+    http.begin(apiEndpoint);
+    http.addHeader("Content-Type", "application/json");
+    int httpCode = http.POST(payload);
+    
+    Serial.println("Location updated: " + String(httpCode));
+    http.end();
+  }
+}
+
+void setup() {
+  Serial.begin(115200);
+  WiFi.begin(ssid, password);
+  pinMode(LED_PIN, OUTPUT);
+}
+
+void loop() {
+  updateGuideLocation();
+  delay(30000); // Update every 30 seconds
+}
+```
+
+</div>
+
 ---
 
 <!-- ┌─────────────────────────────────────────────────────────────┐ -->
@@ -187,9 +302,86 @@ const ruvindu: Developer = {
 ---
 
 <!-- ┌─────────────────────────────────────────────────────────────┐ -->
-<!--              KUPPI LAB — EDUCATIONAL COMMUNITY               -->
+<!--           YOUTUBE CHANNEL — FEATURED CONTENT              -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
-## 📚 Kuppi Lab — Educational Initiative
+## 🎥 YouTube & Featured Content
+
+<div align="center">
+
+### 🌟 **Samat Tour: Smart Tourism Solutions**
+
+[![Video Thumbnail](https://img.youtube.com/vi/T9oHJLy2acA/maxresdefault.jpg)](https://youtu.be/T9oHJLy2acA?si=j5YNyYkt4Bw9cB23)
+
+**Watch the complete project walkthrough showcasing the Smart Tourism Management Platform**
+
+[![Watch Now](https://img.shields.io/badge/▶_WATCH_FULL_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8B0000)](https://youtu.be/T9oHJLy2acA?si=j5YNyYkt4Bw9cB23)
+
+**What You'll Learn:**
+- 🌍 Complete tourism platform architecture
+- 💻 Full-stack development with React + Flask + PostgreSQL
+- 📱 Real-world booking & reservation system
+- 🗺️ Destination discovery with AI recommendations
+- 🔐 Secure authentication & payment integration
+
+</div>
+
+---
+
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--            LIVE CODING ANIMATIONS & SKILLS SHOWCASE          -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
+## 💻 Live Coding Skills
+
+<div align="center">
+
+```python
+# 🚀 Real-World Problem Solving Pipeline
+class RuvinduDeveloper:
+    def __init__(self):
+        self.expertise = {
+            "backend": ["Python Flask", "Node.js", "Express"],
+            "frontend": ["React", "Flutter", "HTML/CSS"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+            "ml_ai": ["TensorFlow", "Scikit-learn", "Data Science"],
+            "iot": ["Arduino", "IoT Systems", "Real-time Processing"]
+        }
+        self.current_project = "Samat Tour - Smart Tourism Platform"
+        self.mission = "Build scalable solutions that matter"
+    
+    def solve_problems(self):
+        return f"✨ Transforming ideas into {self.current_project}"
+    
+    def tech_stack(self):
+        return "Full-stack | ML | IoT | Cloud Architecture"
+
+# Instantiate & Deploy
+dev = RuvinduDeveloper()
+print(dev.solve_problems())  # ✨ Transforming ideas into Samat Tour
+```
+
+</div>
+
+---
+
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--           PROFESSIONAL SERVICES & EXPERTISE                  -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
+## 🎯 Professional Services
+
+<div align="center">
+
+| Service | Expertise | Experience |
+|:--------:|:----------:|:----------:|
+| 🏗️ **Full-Stack Development** | React + Flask + PostgreSQL | Enterprise Apps |
+| 🤖 **AI & Machine Learning** | TensorFlow + Scikit-learn | Predictive Analytics |
+| 🔌 **IoT Solutions** | Arduino + Real-time Systems | Connected Devices |
+| 📱 **Mobile Development** | Flutter | Cross-Platform Apps |
+| ☁️ **System Architecture** | Microservices + Docker | Scalable Systems |
+| 📊 **Data Analytics** | Python + Dashboards | Business Intelligence |
+
+</div>
+
+---
 
 > 🎓 *Your digital classroom for IT and Data Science — breaking down complex concepts into simple, friendly sessions!*
 
@@ -376,6 +568,32 @@ const ruvindu: Developer = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,40:0d1b4b,80:0a0a2e,100:000000&height=150&section=footer&text=Thanks+for+Visiting!+Let%27s+Innovate+Together+🚀&fontColor=00d4ff&fontSize=22&fontAlignY=62&animation=twinkling" width="100%"/>
 </div>
 
+---
+
+## 📌 Quick Stats
+
+<div align="center">
+
+| Metric | Value |
+|:------:|:-----:|
+| 💻 Current Project | Samat Tour |
+| 🚀 Stack | MERN + ML + IoT |
+| 📊 Code Quality | Production-Ready |
+| 🎓 Focus | Real-World Solutions |
+| ⚡ Availability | Open for Partnerships |
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Ruvindu Navodya** | 🌍 Colombo, Sri Lanka | 🚀 IR Fusions
+
+*Building the future through innovative technology & problem-solving*
+
+</div>
+
 <!-- ═══════════════════════════════════════════════ -->
 <!--           🥚 EASTER EGG FOR CURIOUS DEVS 🥚    -->
 <!--  ██╗███╗░░░███╗███████╗░██████╗██╗░░██╗        -->
@@ -386,4 +604,3 @@ const ruvindu: Developer = {
 <!--  ╚═╝╚═╝░░░░╚═╝╚══════╝╚═════╝░╚═╝░░╚═╝        -->
 <!--  🎉 You found the easter egg! Star ⭐ the repo! -->
 <!-- ═══════════════════════════════════════════════ -->
-
