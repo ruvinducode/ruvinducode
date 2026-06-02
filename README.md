@@ -24,10 +24,10 @@
 <!-- └──────────────────────────────────────────────────────────────────┘ -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruvindu-navodya-288977389)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T9oHJLy2acA?si=Y3aizvwnMGdsBS3A)
 [![IR Fusion](https://img.shields.io/badge/IR_Fusion-00FF88?style=for-the-badge&logo=buffer&logoColor=black)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruvindunavodya8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=githubpages&logoColor=black)](https://github.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ruvinducode&label=Profile+Views&color=00ff88&style=for-the-badge)
 
@@ -141,7 +141,7 @@ const ruvindu: SeniorEngineer & Entrepreneur = {
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Currently+Building...;Samat+Tour+—+Smart+Tourism+Platform;Flask+%7C+React+%7C+PostgreSQL+%7C+JWT" alt="Samat Tour" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Currently+Building...;Smart+Tour+—+Smart+Tourism+Platform;Flask+%7C+React+%7C+PostgreSQL+%7C+JWT" alt="Smart Tour" />
 </div>
 
 <br/>
@@ -159,15 +159,15 @@ const ruvindu: SeniorEngineer & Entrepreneur = {
 
 <br/><br/>
 
-# Samat Tour
+# Smart Tour
 
 ### Smart Tourism Management Platform
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=700&color=88FFBB&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Connecting+tourists%2C+operators%2C+guides%2C+hotels+%26+transport;Seamless+booking+%7C+Itinerary+planning+%7C+Destination+discovery;Scalable+architecture+%7C+Real-time+tour+coordination" alt="Samat Tour desc"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=700&color=88FFBB&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Connecting+tourists%2C+operators%2C+guides%2C+hotels+%26+transport;Seamless+booking+%7C+Itinerary+planning+%7C+Destination+discovery;Scalable+architecture+%7C+Real-time+tour+coordination" alt="Smart Tour desc"/>
 
 <br/>
 
-> Samat Tour is a modern tourism management platform designed to transform the travel experience by connecting tourists, tour operators, guides, hotels, and transportation services through a single digital ecosystem.
+> Smart Tour is a modern tourism management platform designed to transform the travel experience by connecting tourists, tour operators, guides, hotels, and transportation services through a single digital ecosystem.
 
 <br/>
 
@@ -204,7 +204,7 @@ const ruvindu: SeniorEngineer & Entrepreneur = {
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-Samat_Tour-00ff88?style=for-the-badge&logo=github&logoColor=black&labelColor=0d2b1a)](https://github.com)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-Smart_Tour-00ff88?style=for-the-badge&logo=github&logoColor=black&labelColor=0d2b1a)](https://github.com)
 
 </td>
 </tr>
@@ -384,7 +384,7 @@ Cloud & DevOps               ████████████████░
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:-------|
-| ![samat](https://img.shields.io/badge/Samat_Tour-Smart_Tourism_Platform-00ff88?style=flat-square&logo=map&logoColor=white) | Flagship tourism management ecosystem | Flask + React + PostgreSQL | ![wip](https://img.shields.io/badge/Actively_Building-ff6600?style=flat-square&logo=githubactions&logoColor=white) |
+| ![smart](https://img.shields.io/badge/Smart_Tour-Smart_Tourism_Platform-00ff88?style=flat-square&logo=map&logoColor=white) | Flagship tourism management ecosystem | Flask + React + PostgreSQL | ![wip](https://img.shields.io/badge/Actively_Building-ff6600?style=flat-square&logo=githubactions&logoColor=white) |
 | ![ir](https://img.shields.io/badge/IR_Fusion_Core_Platform-Company_Flagship-00ff88?style=flat-square&logo=buffer&logoColor=white) | Full-stack enterprise product | Spring Boot + React | ![active](https://img.shields.io/badge/Active-00ff88?style=flat-square) |
 | ![iot](https://img.shields.io/badge/Smart_IoT_Monitor-Sensor_Dashboard-00979D?style=flat-square&logo=arduino&logoColor=white) | Real-time sensor data pipeline | Python + MQTT + Flask | ![live](https://img.shields.io/badge/Live-00ff88?style=flat-square) |
 | ![ml](https://img.shields.io/badge/ML_Data_Pipeline-End_to_End_Deployment-3776AB?style=flat-square&logo=python&logoColor=white) | Machine learning deployment pipeline | Python + Docker + AWS | ![live](https://img.shields.io/badge/Live-00ff88?style=flat-square) |
@@ -473,18 +473,18 @@ Cloud & DevOps               ████████████████░
 
 | Platform | Link |
 |:---|:---|
-| ![li](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn** | [Ruvindu Nawodya](https://linkedin.com) |
-| ![em](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white) **Email** | [your@email.com](mailto:your@email.com) |
+| ![li](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) **LinkedIn** | [Ruvindu Nawodya](https://www.linkedin.com/in/ruvindu-navodya-288977389) |
+| ![em](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white) **Email** | [ruvindunavodya8@gmail.com](mailto:ruvindunavodya8@gmail.com) |
 | ![gh](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **GitHub** | [ruvinducode](https://github.com/ruvinducode) |
 | ![yt](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) **YouTube** | [Watch Now](https://youtu.be/T9oHJLy2acA?si=Y3aizvwnMGdsBS3A) |
 | ![ir](https://img.shields.io/badge/IR_Fusion-00FF88?style=flat-square&logo=buffer&logoColor=black) **IR Fusion** | [IR Fusion](https://github.com) |
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruvindu-navodya-288977389)
 [![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T9oHJLy2acA?si=Y3aizvwnMGdsBS3A)
 [![IR Fusion](https://img.shields.io/badge/IR_FUSION-00FF88?style=for-the-badge&logo=buffer&logoColor=black&labelColor=0d2b1a)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruvindunavodya8@gmail.com)
 
 <br/><br/>
 
@@ -508,4 +508,3 @@ Cloud & DevOps               ████████████████░
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,40:0d2b1a,80:0a0f0a,100:000000&height=150&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+great.&fontColor=00ff88&fontSize=20&fontAlignY=62&animation=twinkling" width="100%"/>
 </div>
-
