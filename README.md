@@ -314,7 +314,11 @@ Cloud & DevOps               ████████████████░
 ## Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruvinducode&theme=matrix&no-frame=true&margin-w=8&margin-h=8&row=2&column=4" width="96%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ruvinducode&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&row=1&column=6" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruvinducode&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&row=1&column=6&rank=B,C,?" width="100%"/>
 </div>
 
 ---
@@ -322,7 +326,11 @@ Cloud & DevOps               ████████████████░
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruvinducode&bg_color=0D1117&color=00ff88&line=00ff88&point=FFFFFF&area=true&area_color=00ff88&hide_border=true&custom_title=Ruvindu%27s+Contribution+Graph&title_color=00ff88" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruvinducode&bg_color=0D1117&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true&title_color=00ff88&custom_title=Ruvindu's+Contribution+Graph" width="98%"/>
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00ff88/ruvinducode" alt="Ruvindu's Contribution Chart" width="98%"/>
 </div>
 
 ---
@@ -402,8 +410,8 @@ Cloud & DevOps               ████████████████░
 
 <div align="center">
 
-| AI / ML | Cloud & DevOps | IoT Advanced | Architecture |
-|:-------:|:--------------:|:------------:|:------------:|
+| ![ai](https://img.shields.io/badge/AI_%2F_ML-3776AB?style=flat-square&logo=python&logoColor=white) | ![cloud](https://img.shields.io/badge/Cloud_%26_DevOps-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | ![iot](https://img.shields.io/badge/IoT_Advanced-00979D?style=flat-square&logo=arduino&logoColor=white) | ![arch](https://img.shields.io/badge/Architecture-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+|:---:|:---:|:---:|:---:|
 | LLM Fine-tuning | AWS IoT Core | Edge AI | Microservices |
 | TensorFlow | Kubernetes | LoRaWAN | Event-Driven |
 | LangChain | Terraform | Digital Twin | CQRS / DDD |
